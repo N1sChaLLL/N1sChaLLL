@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="download.gif" alt="description" style="width: 70%; height: auto;" />
+  <img src="header.png" alt="description" style="width: 70%; height: auto;" />
 </p>
 
 
