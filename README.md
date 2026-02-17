@@ -3,10 +3,10 @@
 </p>
 
 
-<h1 align="center">Hi 👋, I'm Venkat Prashanth</h1>
+<h1 align="center">Hello 👋, I'm Nischal S Malagati</h1>
 <h3 align="center">Backend Web Developer | Cloud Computing </h3>
 
-![Profile Views](https://komarev.com/ghpvc/?username=m-vp&style=flat-square&color=blue) [![GitHub followers](https://img.shields.io/github/followers/m-vp?label=Follow&style=social)](https://github.com/m-vp/?tab=follow)
+
 
 Welcome to my GitHub profile! 
 
@@ -20,8 +20,6 @@ Welcome to my GitHub profile!
 
 
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]([linkedin.com/in/venkat-prashanth-m/](https://www.linkedin.com/in/venkat-prashanth-m/)) 
 
 
 ## 🛠 My Stack
@@ -36,8 +34,6 @@ Welcome to my GitHub profile!
 
 ### Frameworks and Libraries
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) 
-![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) 
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) 
 
 
